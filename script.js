@@ -1,1 +1,3 @@
-'google.com', 'mysite.com', 'domain.com', 'hidtechnology.blogspot.com',
+    var go_url = 'https://suarankri.me/';
+    var api = '8dfe678b2c7b300c005e01bc2b5c98a008dd13bc';
+    var shorten_exclude = ['google.com', 'mysite.com', 'domain.com']; 
