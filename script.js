@@ -1,1 +1,1 @@
-['google.com', 'mysite.com', 'domain.com', 'hidtechnology.blogspot.com',];
+'google.com', 'mysite.com', 'domain.com', 'hidtechnology.blogspot.com',
